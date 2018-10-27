@@ -1,6 +1,6 @@
-img-uriconv
+img-urlconv
 ---
-img-uriconv 是一个用于替换 [Linux 中国](https://linux.cn/) 与 [LCTT/TranslateProject](https://github.com/LCTT/TranslateProject) 文章图片 url 的工具
+img-urlconv 是一个用于替换 [Linux 中国](https://linux.cn/) 与 [LCTT/TranslateProject](https://github.com/LCTT/TranslateProject) 文章图片 url 的工具
 
 背景
 ---
